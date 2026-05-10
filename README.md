@@ -34,7 +34,6 @@ This GitHub is where I'm documenting that journey — honest work in progress, n
 > Projects will be added here as they are completed. Each one includes the dataset used, the questions I was trying to answer, the SQL or visualisation work, and a write-up of what I found.
 
 **Coming soon:**
-- Chicago crime + census data analysis (IBM SQL course project)
 - Airbnb market analysis — pricing and occupancy trends (Tableau Public)
 
 ---
