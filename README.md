@@ -28,14 +28,14 @@ Five-page interactive Power BI dashboard combining three years of government tou
  
 ---
  
-### 🔍 [Chicago City Data — SQL Analysis](https://github.com/GiovaniSaut/chicago-data-sql-analysis)
+### 🔍 [Chicago City Data — SQL Analysis](https://github.com/GiovaniSaut/Chicago_Data_SQL_Analysis)
 **SQL · Python · SQLite · Jupyter Notebook**
  
 SQL analysis of three real-world Chicago datasets — 533 crime records, 78 community census profiles, and 566 school performance entries. Answers 10 analytical questions using COUNT, GROUP BY, JOIN, and subqueries. Final assignment for the IBM SQL for Data Science course.
  
 ---
  
-### 🧠 [Time Pressure in the Digital Age — Dissertation Research](https://github.com/GiovaniSaut/time-pressure-digital-age-study)
+### 🧠 [Time Pressure in the Digital Age — Dissertation Research](https://github.com/GiovaniSaut/Digital-Age-Time-Pressure-Study)
 **SPSS · Quantitative research · Survey design · Hierarchical regression**
  
 Independent undergraduate research study (N=100) examining whether digital technology use predicts time pressure beyond personality factors. Key finding: people who report that technology helps them work faster also report *higher* awareness of time shortage — not lower. Anonymised dataset published. Findings have direct relevance for workplace wellbeing, productivity tool design, and HR analytics.
