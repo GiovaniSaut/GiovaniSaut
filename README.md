@@ -11,7 +11,7 @@ I come at data from a different angle than most: my background is in quantitativ
 | Certificate | Issuer | Year |
 |---|---|---|
 | IBM Databases and SQL for Data Science with Python | IBM · Coursera | 2026 |
-| Microsoft Power BI Data Analyst Professional Certificate | Microsoft · Coursera | 2026 |
+| Microsoft Data Analysis with SQL, Excel & Power BI (Specialisation) | Microsoft · Coursera | 2026 |
 | Google AI Professional Certificate | Google · Coursera | 2026 |
 | Behavioural Finance | Coursera | 2026 |
 
